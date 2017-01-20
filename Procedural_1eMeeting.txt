@@ -1,0 +1,41 @@
+bonne font personnalisée
+baisser la taille de font (12)
+mic mac
+Pb : 
+
+
+Pourquoi l'habillage est important dans les jeux video ?
+Pourquoi c'est plus important dans un type de jeu que sur d'autres ?
+Habillage ou gameplay qu'est ce qui est plus important ?
+
+Avec l'arrivée VR, faut il rendre de plus en plus les mondes ressemblants à la réalité ?
+Qu'apporte le procédural finalement ? dans quel type de jeu ?
+
+Faut il utiliser le procédural partout ? Ou faut-il adapter l'utilisation du procédural ? Quelle plus-value apporte réélement le procédural ?
+
+Préciser les axes sur lesquelles on parle, et dire qu'ils en existe plein d'autres.
+
+Trouver l'interêt du procédural et pourquoi par exemple il pourrait ne pas être important ?
+Pourquoi c'est si bien d'avoir un univers si vaste et varié.
+
+Qu'est ce qui change et qu'est ce qui ne change pas avec le procédural?
+
+Voir si le procédural pourrait à terme remplacer compltement le graphiste ?
+
+Prendre warcraft 3 --> le rendre procédural ... Les grunt serait grand petits, aurient de grandes ou petites défenses etc ... les mondes ne seraient jamais pareil.
+Les emplacements de départ / de soin / de gain de mana.
+
+Décrire son jeu dans l'etat de l'art.
+Gameplay ? pourquoi on joue à un jeu, pourquoi on aime un jeu ?
+Prendre un peu plus de hauteur -> Aller au dela des limites du procédural.
+
+Reflechir a ce que le procédural rend different dans la génération d'une centaine de batiments.
+
+
+Pour quelle raison on veut cet univers très très graphique ? très très poussé ? Est ce possible de le faire qu'avec une IA ?
+
+Comme le jeu est procédural, ce n'est pas le même pour chaque joueur dans les jeux solo, il y a donc un probleme avec le HighScore.
+
+
+Pourquoi il est utile dans certain jeu et pas dans d'autre ? Et pourquoi il est utiliser dans ce jeu pour telle type d'item et pas pour d'autres.
+
